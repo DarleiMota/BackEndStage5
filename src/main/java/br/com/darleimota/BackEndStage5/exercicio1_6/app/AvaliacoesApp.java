@@ -16,7 +16,7 @@ import br.com.darleimota.BackEndStage5.exercicio1_6.model.Avaliacao;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class AvaliacoesApp implements CommandLineRunner {
 
     @Override
