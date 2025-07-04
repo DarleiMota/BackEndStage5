@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 
 import java.util.Scanner;
 
-@Component
+//@Component
 public class DividirNumerosApp implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
