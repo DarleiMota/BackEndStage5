@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import java.util.Arrays;
 import java.util.List;
 
-@Component
+//@Component
 public class SomaDosQuadradosParesApp implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
