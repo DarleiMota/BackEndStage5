@@ -12,7 +12,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 
-@Component
+//@Component
 public class MaiorNumeroApp implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
@@ -36,7 +36,7 @@ public class MaiorNumeroApp implements CommandLineRunner {
 
         // * TRATAMENTO com ifPresentOrElse
         maior.ifPresentOrElse(
-                m -> System.out.println("Maior Valor é: %d "+ m),
+                m -> System.out.println("Maior Valor é: "+ m),
                         () -> System.out.println("Nenhum Valor encontrado!")
         );
     }
