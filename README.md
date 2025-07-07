@@ -35,7 +35,7 @@ Nesta etapa, o foco está na aplicação de **Streams**, **Gson**, **Jackson**, 
 │  │
 │  ├── 📦 exercicio3_1 a 3_8  -> Operações com Stream API
 │  ├── 📦 exercicio4_1 a 4_5  -> Leitura, gravação e ordenação
-│  └── 📦 exercicio4_6_7_8_9  -> Projeto com JSON + Stream + OO
+│  └── 📦 exercicio4_6_7_8_9  -> Projeto com Stream + OO
 │
 └── README.md
 
